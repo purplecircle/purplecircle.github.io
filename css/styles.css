@@ -158,6 +158,22 @@ body {
         padding-right: 15px;
     }
 
+    .navbar .nav.navbar-right {
+        margin-right: 15px;
+    }
+
+    .navbar .navbar-right .external-links {
+        font-size: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 0;
+        margin-right: 10px;
+    }
+
+    .navbar .navbar-right li {
+        float: left;
+    }
+
     .navbar-wrapper .navbar {
         padding-left: 0;
         padding-right: 0;
@@ -185,4 +201,9 @@ body {
     .featurette-heading {
         margin-top: 120px;
     }
+}
+
+.contact-us-row .thumbnail {
+    text-align: center;
+    border: 0;
 }
