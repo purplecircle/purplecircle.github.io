@@ -187,7 +187,7 @@ body {
 
 @media (min-width: 992px) {
     .featurette-heading {
-        margin-top: 120px;
+        margin-top: 60px;
     }
 }
 
@@ -211,4 +211,15 @@ body {
 .contact-us-row .thumbnail {
     text-align: center;
     border: 0;
+}
+
+.purple {
+    color: #46005A;
+    font-weight: bold;
+}
+
+
+.yellow {
+    color: rgb(245, 245, 0);
+    font-weight: bold;
 }
