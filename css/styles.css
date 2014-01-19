@@ -36,33 +36,34 @@ body {
 }
 
 .navbar {
-    background: #46005A;
-    border-color: #30003D;
+    background: #723A80;
+    border-color: #522f5e;
 }
 
-.navbar .navbar-nav>.active>a, .navbar .navbar-nav>.active>a:hover, .navbar .navbar-nav>.active>a:focus {
-    background-color: #30003D;
-    color: yellow;
+.navbar .navbar-left li a:hover {
+    background-color: #522f5e;
+    color: #FDF773;
 }
 
 .navbar .navbar-nav>li>a {
-    color: rgba(255, 255, 0, 0.75);
+    color: rgba(253, 247, 115, 0.79);
 }
 
 .navbar .navbar-nav a:hover {
-    color: yellow !important;
+    color: #FDF773 !important;
+    background-color: #522f5e;
 }
 
 .navbar .navbar-toggle {
-    border-color: #30003D;
+    border-color: #522f5e;
 }
 
 .navbar .navbar-toggle:hover, .navbar .navbar-toggle:focus {
-    background-color: #30003D;
+    background-color: #522f5e;
 }
 
 .navbar .navbar-toggle .icon-bar {
-    background-color: yellow;
+    background-color: #FDF773;
 }
 
 .navbar .brand-image-container .brand-image {
@@ -214,12 +215,12 @@ body {
 }
 
 .purple {
-    color: #46005A;
+    color: #723A80;
     font-weight: bold;
 }
 
 
 .yellow {
-    color: rgb(245, 245, 0);
+    color: #FDF773;
     font-weight: bold;
 }
