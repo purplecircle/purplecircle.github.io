@@ -183,13 +183,6 @@ body {
     .featurette-heading {
         font-size: 50px;
     }
-
-}
-
-@media (min-width: 992px) {
-    .featurette-heading {
-        margin-top: 60px;
-    }
 }
 
 .navbar .navbar-right .external-links {
